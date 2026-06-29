@@ -1,4 +1,4 @@
-# Gesture Play - Touchless Gaming System
+# Gesture Play - Touchless Gaming System👾
 
 ## Overview
 
@@ -44,3 +44,6 @@ python subway_hand_controller.py
 ## Demo
 
 A demonstration video of the project is available on LinkedIn.
+
+
+Demo: https://www.linkedin.com/feed/update/urn:li:activity:7367405711414206464/
